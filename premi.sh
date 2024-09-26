@@ -32,7 +32,7 @@ clear;clear;clear
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo -e "  Welcome To Fathurrohman Tunneling ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
-echo -e "  Auther : ${green} Fathurrohman vpn® ${NC}${YELLOW}(${NC} ${green} Yass vpn Tunneling ${NC}${YELLOW})${NC}"
+echo -e "  Auther : ${green} @fathurrohmaan ${NC}${YELLOW}(${NC} ${green} Yass vpn Tunneling ${NC}${YELLOW})${NC}"
 echo -e " © Recode By Fathurrohman Tunneling${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
